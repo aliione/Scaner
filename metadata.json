@@ -1,0 +1,6 @@
+{
+  "name": "GeoScan 3D",
+  "description": "Professional ground-scan data acquisition, signal processing, and 3D surface analysis workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

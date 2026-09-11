@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoScan 3D</string>
+    <string name="live_survey">Live Survey</string>
+    <string name="new_project">New Project</string>
+    <string name="two_d_map">2D Map</string>
+    <string name="three_d_surface">3D Surface</string>
+    <string name="voxel_volume">Voxel Volume</string>
+    <string name="cross_section">Cross-Section</string>
+    <string name="targets_registry">Target Registry</string>
+    <string name="export_data">Export Survey Data</string>
+    <string name="filter_pipeline">Signal Processing</string>
+    <string name="bluetooth_sensor">Bluetooth Sensor</string>
+    <string name="sensor_speed">Sensor Speed (Hz)</string>
+    <string name="manual_impulse">Manual Impulse Transmission</string>
+    <string name="soil_discrimination">Ground Soil Discrimination</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoScan 3D</string>
+    <string name="live_survey">بررسی و اسکن زنده</string>
+    <string name="new_project">پروژه جدید</string>
+    <string name="two_d_map">نقشه دو بعدی</string>
+    <string name="three_d_surface">سطح سه بعدی</string>
+    <string name="voxel_volume">حجم وکسل</string>
+    <string name="cross_section">مقطع عرضی</string>
+    <string name="targets_registry">لیست اهداف و نقاط</string>
+    <string name="export_data">خروجی داده‌های ژئوفیزیک</string>
+    <string name="filter_pipeline">پردازش سیگنال و فیلترها</string>
+    <string name="bluetooth_sensor">اتصال سنسور بلوتوث</string>
+    <string name="sensor_speed">سرعت سنس (هرتز)</string>
+    <string name="manual_impulse">ارسال پالس دستی</string>
+    <string name="soil_discrimination">تشخیص و تفکیک نوع خاک</string>
+</resources>
